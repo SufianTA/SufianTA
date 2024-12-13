@@ -98,10 +98,11 @@ Hi there! I'm **Sufian** 👋, a passionate engineer, researcher, and mentor ded
 ## 🛠️ Let’s Collaborate  
 
 💌 **Contact Me**: [Email]() | [LinkedIn]()  
-🌐 **Portfolio**: [Steve](https://yourwebsite.com)  
+🌐 **Portfolio**: [Steve]()  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
